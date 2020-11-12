@@ -4,7 +4,7 @@
 
 Something about me:
 
-- 🔭 I’m currently working as Systems Engineer at [Cloudflare](https://www.cloudflare.com/)
-- 👯 I’m looking to collaborate on Go, Monorepositories and anything related
-- :ferris_wheel: Personal: website which I'll rebuild shortly: [andreamedda.com](andreamedda.com)
-- 📫 How to reach me: me@andreamedda.com
+- I’m currently working as Systems Engineer at [Cloudflare](https://www.cloudflare.com/)
+- I’m looking to collaborate on Go, Monorepositories and anything related
+- Personal website which I'll rebuild shortly: [andreamedda.com](andreamedda.com)
+- How to reach me: me@andreamedda.com
