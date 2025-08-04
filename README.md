@@ -1,1 +1,1 @@
-Building the next generation DevSecOps platform for all things vulnerability related @[Smithy](https://smithy.security/), ex [Cloudflare](https://www.cloudflare.com/) and [Curve](https://curve.com/en-gb/).
+Enterprise AI Agents tinkering [@Gitpod](https://gitpod.io) - ex [Cloudflare](https://www.cloudflare.com/).
